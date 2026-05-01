@@ -1,0 +1,14 @@
+{
+  "name": "lightfuture",
+  "version": "1.0.0",
+  "description": "Minecraft Rewards PRO - Landing Page",
+  "private": true,
+  "scripts": {
+    "build": "echo 'No build step required for static HTML'",
+    "test": "echo 'No tests specified'"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.1.1"
+  },
+  "devDependencies": {}
+}
